@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-router-dom": "6.4.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "*",
+    "miragejs": "^0.1.48",
+    "vite": "^5.0.2"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
